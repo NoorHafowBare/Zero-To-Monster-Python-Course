@@ -2,4 +2,4 @@
 
 
 
-![Course Thumbnail](/thumb.png)
+
